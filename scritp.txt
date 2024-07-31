@@ -1,0 +1,40 @@
+<!-- SEO DASH 2TAK -->
+    <nav class="c-circle-menu js-menu">
+    <button class="c-circle-menu__toggle js-menu-toggle">
+    <span>Toggle</span>
+    </button>
+    <ul class="c-circle-menu__items">
+    <li class="c-circle-menu__item">
+    <a href="#" target="_blank" rel="noopener" class="c-circle-menu__link">
+    <img src="https://kenceng.click/wp/wp-content/uploads/2024/05/rupiah-download-apk.gif" alt>
+    </a>
+    </li>
+    <li class="c-circle-menu__item">
+    <a href="#" target="_blank" rel="noopener" class="c-circle-menu__link">
+    <img src="https://kenceng.click/wp/wp-content/uploads/2024/05/lucky-spin-ruoiah.gif" alt>
+    </a>
+    </li>
+    <li class="c-circle-menu__item">
+    <a href="#" target="_blank" rel="noopener" class="c-circle-menu__link">
+    <img src="https://kenceng.click/wp/wp-content/uploads/2024/05/telegram.gif" alt>
+    </a>
+    </li>
+    <li class="c-circle-menu__item">
+    <a href="#" target="_blank" rel="noopener" class="c-circle-menu__link">
+    <img src="https://kenceng.click/wp/wp-content/uploads/2024/05/whatsapp-rupiah.gif" alt>
+    </a>
+    </li>
+    <li class="c-circle-menu__item">
+    <a href="#" target="_blank" rel="noopener" class="c-circle-menu__link">
+    <img src="https://kenceng.click/wp/wp-content/uploads/2024/05/facebook-rupiah.gif" alt>
+    </a>
+    </li>
+    </ul>
+    <div class="c-circle-menu__mask js-menu-mask"></div>
+    </nav>
+    <link rel="stylesheet" href="https://rupiah777mobile.com/rupiah777/z/rupiah777pro.css">
+    <script src="https://rupiah777mobile.com/rupiah777/z/rupiah777.js"></script>
+    <script>
+    var el = '.js-menu';
+    var myMenu = cssCircleMenu(el);
+    </script>
